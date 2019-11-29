@@ -1,6 +1,12 @@
 # ShamefulDoc
 This is a construct idea for 2007 Microsofts Office Word.
+```
+  ___ _                    __      _   ___          
+ / __| |_  __ _ _ __  ___ / _|_  _| | |   \ ___  __ 
+ \__ \ ' \/ _` | '  \/ -_)  _| || | | | |) / _ \/ _|
+ |___/_||_\__,_|_|_|_\___|_|  \_,_|_| |___/\___/\__|
 
+```
 # Setup
 ```
 git clone https://github.com/Xerox00/ShamefulDoc
