@@ -1,5 +1,5 @@
-# ShamefulDoc
-This is a construct idea for 2007 Microsofts Office Word.
+# ShamefulDoc 
+This is a construct idea for 2007 Microsofts Office Word. If you would like a great reference on what shellcode I reccomend checking out this amazing writeup https://www.exploit-db.com/papers/13224.
 ```
   ___ _                    __      _   ___          
  / __| |_  __ _ _ __  ___ / _|_  _| | |   \ ___  __ 
